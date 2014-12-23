@@ -1,11 +1,11 @@
 {
-  "name": "gulp-concat-json",
+  "name": "gulp-concat-json2",
   "description": "Concatenates JSON files",
   "version": "0.0.0",
-  "homepage": "http://github.com/oliverfoster/gulp-concat-json",
+  "homepage": "http://github.com/oliverfoster/gulp-concat-json2",
   "repository": {
     "type": "git",
-    "url": "git://github.com/oliverfoster/gulp-concat-json.git"
+    "url": "git://github.com/oliverfoster/gulp-concat-json2.git"
   },
   "author": {
     "name": "Oliver Foster",
@@ -31,10 +31,10 @@
   "licenses": [
     {
       "type": "MIT",
-      "url": "http://github.com/oliverfoster/gulp-concat-json/raw/master/LICENSE"
+      "url": "http://github.com/oliverfoster/gulp-concat-json2/raw/master/LICENSE"
     }
   ],
   "bugs": {
-    "url": "https://github.com/oliverfoster/gulp-concat-json/issues"
+    "url": "https://github.com/oliverfoster/gulp-concat-json2/issues"
   }
 }
